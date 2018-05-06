@@ -10,15 +10,13 @@ Martinez-Vernon, et al. An improved machine learning pipeline for urinary volati
 	diagnosing diabetes. Preprint available soon. 
 ```
 
----------------------------------------------------------------------------------------------------------
- PLEASE NOTE:  ALL SCRIPTS AND FUNCTIONS ARE DISTRIBUTED UNDER VERSION 3 OF THE GNU PUBLIC LICENCE 
----------------------------------------------------------------------------------------------------------
+#### PLEASE NOTE:  ALL SCRIPTS AND FUNCTIONS ARE DISTRIBUTED UNDER VERSION 3 OF THE GNU PUBLIC LICENCE
+
+### FOLDER STRUCTURE AND CONTENT
 R scripts were used to generate the supporting information tables. The data in the main tables are a subset of these.
 	
 	> NOTE: CHANGE THE DIRECTORY PATH BEFORE RUNNING SCRIPTS!
 
-
-**FOLDER STRUCTURE AND CONTENT**
 ```
   analysis.R                      - R script to generate all Supporting Information Tables, except Tables 10 and 16
   analysis_features.R             - R script to generate Supporting Information Table 10
