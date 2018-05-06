@@ -1,6 +1,7 @@
----------------------------------------------------------------------------------------------------------
+--
+An improved machine learning pipeline for urinary volatiles disease detection: diagnosing diabetes
+--
 Andrea S. Martinez-Vernon & Richard S. Savage, University of Warwick, UK
----------------------------------------------------------------------------------------------------------
 
 ### CITE US
 This respository contains the code associated with the following manuscript:
