@@ -6,7 +6,8 @@ An improved machine learning pipeline for urinary volatiles disease detection: d
 This respository contains the code associated with the following manuscript:
 
 ```
-Martinez-Vernon, et al. An improved machine learning pipeline for urinary volatiles disease detection: diagnosing diabetes. Preprint available soon. 
+Martinez-Vernon, et al. An improved machine learning pipeline for urinary volatiles disease detection: 
+	diagnosing diabetes. Preprint available soon. 
 ```
 
 ---------------------------------------------------------------------------------------------------------
