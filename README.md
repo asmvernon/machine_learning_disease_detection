@@ -1,10 +1,16 @@
 ---------------------------------------------------------------------------------------------------------
 Andrea S. Martinez-Vernon & Richard S. Savage, University of Warwick, UK
+---------------------------------------------------------------------------------------------------------
 
-Last modified 2018/05/04
+### CITE US
+This respository contains the code associated with the following manuscript:
+
+```
+Martinez-Vernon, et al. An improved machine learning pipeline for urinary volatiles disease detection: diagnosing diabetes. Preprint available soon. 
+```
 
 ---------------------------------------------------------------------------------------------------------
-*** PLEASE NOTE:  ALL SCRIPTS AND FUNCTIONS ARE DISTRIBUTED UNDER VERSION 3 OF THE GNU PUBLIC LICENCE ***
+ PLEASE NOTE:  ALL SCRIPTS AND FUNCTIONS ARE DISTRIBUTED UNDER VERSION 3 OF THE GNU PUBLIC LICENCE 
 ---------------------------------------------------------------------------------------------------------
 R scripts were used to generate the supporting information tables. The data in the main tables are a subset of these.
 	
